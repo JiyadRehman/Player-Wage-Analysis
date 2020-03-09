@@ -3,6 +3,8 @@ Developing a machine learning model that would help in predicting the wages of s
 
 This is a group project for a graduate course. The name of the members is shared in the final report.
 
+The data was taken from Kaggle and the path of it is shared in the project report.
+
 The objective of this project is to develop a machine learning model that would precisely predict the wage of soccer players.
 This can help the soccer clubs and managers to bid accordingly.
 
